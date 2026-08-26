@@ -67,7 +67,7 @@ The models were evaluated using:
 
 ## Author
 
-**Mahmoud Ahmed Ali Abotaleb | 
+Mahmoud Ahmed Ali Abotaleb | 
                                                                                                                  **محمود احمد علي ابوطالب**
 
 Machine Learning Project
