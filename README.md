@@ -64,3 +64,9 @@ The models were evaluated using:
 - Scikit-learn
 - Imbalanced-learn
 - Jupyter Notebook
+
+## Author
+
+**Mahmoud**
+
+Machine Learning Project
